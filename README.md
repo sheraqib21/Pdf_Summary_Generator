@@ -21,3 +21,17 @@ You can install these packages using the following command:
 
 ```bash
 pip install PyPDF2 pandas requests python-dotenv
+```
+
+# Installation 
+
+```bash
+git clone https://github.com/yourusername/yourproject.git
+cd yourproject
+```
+
+Create a .env file in the root directory and add your Hugging Face API key.
+
+```bash
+HUGGINGFACE_API_KEY=your_huggingface_api_key
+```
